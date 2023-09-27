@@ -15,6 +15,7 @@ public class Teste {
             LocalDateTime agora = LocalDateTime.now();
             System.out.println(hoje.format(formatador));
 
+            System.out.println("teste");
         }
 
 

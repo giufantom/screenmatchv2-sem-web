@@ -15,6 +15,7 @@ import br.com.alura.screenmatchv2.service.ConverteDados;
 import br.com.alura.screenmatchv2.model.Episodio;
 import java.util.*;
 public class Principal {
+
     private Scanner leitura = new Scanner(System.in);
     private ConsumoApi consumo = new ConsumoApi();
 
